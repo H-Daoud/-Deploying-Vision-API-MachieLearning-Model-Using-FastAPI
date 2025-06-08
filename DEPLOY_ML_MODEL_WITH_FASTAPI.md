@@ -200,5 +200,3 @@ Refer to the hosting provider’s documentation for deployment steps.
 - [Deploying FastAPI with Docker](https://fastapi.tiangolo.com/deployment/docker/)
 
 ---
-
-Feel free to copy, modify, and use this as your GitHub documentation!
