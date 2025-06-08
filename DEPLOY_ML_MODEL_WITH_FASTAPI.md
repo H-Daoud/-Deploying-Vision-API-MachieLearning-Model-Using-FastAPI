@@ -198,5 +198,6 @@ Refer to the hosting provider’s documentation for deployment steps.
 - [scikit-learn Documentation](https://scikit-learn.org/)
 - [joblib Documentation](https://joblib.readthedocs.io/)
 - [Deploying FastAPI with Docker](https://fastapi.tiangolo.com/deployment/docker/)
+- https://www.youtube.com/watch?v=5PgqzVG9SCk&t=97s
 
 ---
